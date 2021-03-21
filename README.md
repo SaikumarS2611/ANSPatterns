@@ -29,7 +29,7 @@ when you call the function for_L() you will get the output as follows
             \*  
             \*  
             \*   
-            \* \* \* \ *
+            \* \* \* \ *  
 for calling the same pattern made with while loop call while_L()  
 --> All the Patterns for Alphabets are present in alp subpackage and on that we have two modules cap_alp and sml_alp which have   patterns for capital Alphabets and small alphabets patterns functions made with for and while loops  
 --> uppercase_alphabets module contains Capital Alphabet pattern functions named as for_A(),for_B(),.....for_Z() & while_A(),while_B(),...while_Z()  
