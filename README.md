@@ -15,10 +15,10 @@
 --------------------------------------------------------------------------------------------------------------------------------------
 ## Package structure 
 
-|   LICENCE.txt
-|   pyproject.toml
-|   README.md
-|   setup.py
+|   LICENCE.txt  
+|   pyproject.toml  
+|   README.md  
+|   setup.py  
 |
 +---ANSPatterns
 |   \---ANSPatterns
