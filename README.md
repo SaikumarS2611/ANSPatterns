@@ -15,25 +15,25 @@
 --------------------------------------------------------------------------------------------------------------------------------------
 ## Package structure 
 
-|   \---ANSPatterns  
-|       |   Main.py  
-|       |   __init__.py  
-|       |  
-|       +---lowercase_alphabets  
-|       |       lalp.py  
-|       |       __init__.py  
-|       |
-|       +---numbers  
-|       |       num.py  
-|       |       __init__.py  
-|       |
-|       +---symbols  
-|       |       symbols.py  
-|       |       __init__.py  
-|       |
-|       \---uppercase_alphabets  
-|               ualp.py  
-|                __init__.py  
+|----\---ANSPatterns  
+|-------|   Main.py  
+|-------|   __init__.py  
+|-------|  
+|-------+---lowercase_alphabets  
+|-------|       lalp.py  
+|-------|       __init__.py  
+|-------|
+|-------+---numbers  
+|-------|       num.py  
+|-------|       __init__.py  
+|-------|
+|-------+---symbols  
+|-------|       symbols.py  
+|-------|       __init__.py  
+|-------|
+|-------\---uppercase_alphabets  
+|-------------- ualp.py  
+|-------------- __init__.py  
 |
 \---tests    
 
