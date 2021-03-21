@@ -3,7 +3,7 @@
 * Package_name : ANSPatterns
 * Author : S SAIKUMAR
 * Author_email : s.saikumar1103@gmail.com
-* Version: 0.0.1
+* Version: 0.1.3
 * github_link: https://github.com/SaikumarS2611/Package.git
 * License: MIT license
 -----------------------------------------------------------------------------------------------------------------
