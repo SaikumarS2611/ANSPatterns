@@ -33,7 +33,7 @@
 |       |
 |       \---uppercase_alphabets  
 |               ualp.py  
-|               __init__.py  
+|                __init__.py  
 |
 \---tests    
 
