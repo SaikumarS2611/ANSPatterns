@@ -14,7 +14,7 @@ setuptools.setup(
     package = ["ANSPatterns"],
     description="A small package for patterns of Alphabets, Numbers and Symbols",
     long_description = long_description,
-    long_description_content_type = 'text/markdown'
+    long_description_content_type = 'text/markdown',
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
