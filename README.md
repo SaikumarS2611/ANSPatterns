@@ -4,7 +4,7 @@
 * Author : S SAIKUMAR
 * Author_email : s.saikumar1103@gmail.com
 * Version: 0.0.1
-* github_link: https://github.com/SaikumarS2611/Package.git
+* github_link: https://github.com/SaikumarS2611/ANSPatterns
 * License: MIT license
 -----------------------------------------------------------------------------------------------------------------
 ## About the Package:
